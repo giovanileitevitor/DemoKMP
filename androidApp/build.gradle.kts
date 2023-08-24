@@ -47,4 +47,7 @@ dependencies {
     implementation("androidx.compose.foundation:foundation:1.4.3")
     implementation("androidx.compose.material:material:1.4.3")
     implementation("androidx.activity:activity-compose:1.7.1")
+
+    //System Ui Library
+    implementation("com.google.accompanist:accompanist-systemuicontroller:0.27.0")
 }

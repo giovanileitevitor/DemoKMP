@@ -1,4 +1,4 @@
-# First project or demo project using KMP
+# First project using KMP/KMM
 ###
 
 # Description
